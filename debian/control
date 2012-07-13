@@ -1,0 +1,21 @@
+Source: blankon-wallpapers
+Section: x11
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Build-Depends: debhelper (>= 8), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
+Build-Depends-Indep: python-distutils-extra
+Standards-Version: 3.9.3
+
+Package: blankon-wallpapers
+Architecture: all
+Section: metapackages
+Depends: ${misc:Depends},
+         blankon-wallpapers-rote
+Description: BlankOn Wallpapers
+ The default BlankOn wallpaper. This is also a meta-package depending on the 
+ other default wallpapers for the current BlankOn release.
+
+Package: blankon-wallpapers-rote
+Architecture: all
+Depends: ${misc:Depends}
+Description: BlankOn 8 Wallpapers
