@@ -1,3 +1,10 @@
+blankon-wallpapers (0.3) rote; urgency=low
+
+  * Fix duplicate rote.xml.
+  * Fix duplicate name.
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Jul 2012 02:39:43 +0700
+
 blankon-wallpapers (0.2) rote; urgency=low
 
   * Added contex/rote.xml

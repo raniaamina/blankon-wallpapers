@@ -1,11 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <wallpaper deleted="false">
-    <name>BlankOn Rote Wallpapers</name>
-    <filename>/usr/share/backgrounds/contex/rote.xml</filename>
-    <options>zoom</options>
-  </wallpaper>
   <wallpaper>
     <_name>Afternoon</_name>
     <filename>/usr/share/backgrounds/Afternoon.png</filename>
@@ -23,7 +18,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Dawn</_name>
+    <_name>Evening</_name>
     <filename>/usr/share/backgrounds/Evening.png</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
