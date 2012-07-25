@@ -3,7 +3,7 @@ set -e
 
 case "$1" in
     configure)
-        touch /usr/share/backgrounds/Evening.png
+        touch /usr/share/backgrounds/contex/rote.xml
     ;;
 
     abort-upgrade|abort-deconfigure|abort-remove)

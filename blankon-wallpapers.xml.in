@@ -2,11 +2,11 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>BlankOn</_name>
-    <filename>/usr/share/backgrounds/Evening.png</filename>
+    <_name>Rote</_name>
+    <filename>/usr/share/backgrounds/contex/rote.xml</filename>
     <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
+    <pcolor>#0DB0FF</pcolor>
+    <scolor>#0DB0FF</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>

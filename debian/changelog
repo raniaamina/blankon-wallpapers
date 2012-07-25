@@ -1,3 +1,10 @@
+blankon-wallpapers (0.2) rote; urgency=low
+
+  * Added contex/rote.xml
+    - Make backgrounds slideshow
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Jul 2012 00:41:22 +0700
+
 blankon-wallpapers (0.1) rote; urgency=low
 
   * Initial release

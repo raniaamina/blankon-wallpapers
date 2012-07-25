@@ -16,6 +16,7 @@ setup(
     name = 'blankon-wallpapers',
     version = version,
     data_files=[('share/backgrounds', glob.glob('*.png')+glob.glob('*.jpg')),
+		('share/backgrounds/contex', glob.glob('contex/*.xml')),
                ],
     cmdclass = { "build" : build_extra.build_extra,
                  "build_i18n" :  build_i18n.build_i18n }

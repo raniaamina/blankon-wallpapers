@@ -3,19 +3,20 @@
 import glob
 
 PREAMBLE = """<background>
-  <starttime>
-    <year>2009</year>
-    <month>08</month>
-    <day>04</day>
-    <hour>00</hour>
+<starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>4</hour>
     <minute>00</minute>
     <second>00</second>
   </starttime>
-<!-- This animation will start at midnight. -->
+  
+  <!-- This animation will start at 4 AM. -->
 """
 
 ENTRY = """  <static>
-    <duration>1795.0</duration>
+    <duration>10795.0</duration>
     <file>%(a)s</file>
   </static>
   <transition>
@@ -31,7 +32,7 @@ FOOTER = """</background>
 PATH='/usr/share/backgrounds/'
 
 def main():
-    images = glob.glob('*.jpg')
+    images = glob.glob('*.png')
     m = len(images)
 
     output = ''
