@@ -1,0 +1,78 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>4</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  
+<!-- This animation will start at 4 AM. -->
+
+<static>
+<duration>10795.0</duration>
+<file>/usr/share/backgrounds/Dawn.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/Dawn.png</from>
+<to>/usr/share/backgrounds/Morning.png</to>
+</transition>
+
+<static>
+<duration>14395.0</duration>
+<file>/usr/share/backgrounds/Morning.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/Morning.png</from>
+<to>/usr/share/backgrounds/Noon.png</to>
+</transition>
+
+<static>
+<duration>14395.0</duration>
+<file>/usr/share/backgrounds/Noon.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/Noon.png</from>
+<to>//usr/share/backgrounds/Afternoon.png</to>
+</transition>
+
+<static>
+<duration>14395.0</duration>
+<file>/usr/share/backgrounds/Afternoon.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/Afternnon.png</from>
+<to>//usr/share/backgrounds/Evening.png</to>
+</transition>
+
+<static>
+<duration>14395.0</duration>
+<file>/usr/share/backgrounds/Evening.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/Evening.png</from>
+<to>//usr/share/backgrounds/Midnight.png</to>
+</transition>
+
+<static>
+<duration>17995.0</duration>
+<file>/usr/share/backgrounds/Midnight.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/Midnight.png</from>
+<to>//usr/share/backgrounds/Dawn.png</to>
+</transition>
+</background>
