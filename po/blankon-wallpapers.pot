@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-26 01:18+0700\n"
+"POT-Creation-Date: 2012-12-08 16:20+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,25 +18,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../blankon-wallpapers.xml.in.h:1
-msgid "Rote"
+msgid "BlankOn Suroboyo Wallpapers"
 msgstr ""
 
-#: ../rote-wallpapers.xml.in.h:1
+#: ../suroboyo-wallpapers.xml.in.h:1
 msgid "Afternoon"
 msgstr ""
 
-#: ../rote-wallpapers.xml.in.h:2
+#: ../suroboyo-wallpapers.xml.in.h:2
 msgid "Dawn"
 msgstr ""
 
-#: ../rote-wallpapers.xml.in.h:3
+#: ../suroboyo-wallpapers.xml.in.h:3
+msgid "Evening"
+msgstr ""
+
+#: ../suroboyo-wallpapers.xml.in.h:4
 msgid "Midnight"
 msgstr ""
 
-#: ../rote-wallpapers.xml.in.h:4
+#: ../suroboyo-wallpapers.xml.in.h:5
 msgid "Morning"
 msgstr ""
 
-#: ../rote-wallpapers.xml.in.h:5
+#: ../suroboyo-wallpapers.xml.in.h:6
 msgid "Noon"
+msgstr ""
+
+#: ../suroboyo-wallpapers.xml.in.h:7
+msgid "17 Agustus"
 msgstr ""
