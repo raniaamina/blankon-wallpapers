@@ -46,5 +46,5 @@ msgid "Noon"
 msgstr ""
 
 #: ../suroboyo-wallpapers.xml.in.h:7
-msgid "17 Agustus"
+msgid "Tugu pahlawan"
 msgstr ""

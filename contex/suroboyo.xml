@@ -34,7 +34,7 @@
 
 <static>
 <duration>14395.0</duration>
-<file>/usr/share/backgrounds/suroboyo/Noon.png</file>
+<file>/usr/share/backgrounds/Noon.png</file>
 </static>
 
 <transition type="overlay">
@@ -50,7 +50,7 @@
 
 <transition type="overlay">
 <duration>5.0</duration>
-<from>/usr/share/backgrounds/Afternnon.png</from>
+<from>/usr/share/backgrounds/Afternoon.png</from>
 <to>//usr/share/backgrounds/Evening.png</to>
 </transition>
 
