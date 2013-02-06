@@ -11,7 +11,6 @@ Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
          blankon-wallpapers-suroboyo
-Conflicts: blankon-wallpapers-rote
 Description: BlankOn Wallpapers
  The default BlankOn wallpaper. This is also a meta-package depending on the 
  other default wallpapers for the current BlankOn release.
@@ -19,4 +18,7 @@ Description: BlankOn Wallpapers
 Package: blankon-wallpapers-suroboyo
 Architecture: all
 Depends: ${misc:Depends}
+Conflicts: blankon-wallpapers-rote
+Replaces: blankon-wallpapers-rote
 Description: BlankOn 9 Wallpapers
+ other default wallpapers for the current BlankOn 9 release.

@@ -1,3 +1,9 @@
+blankon-wallpapers (0.8.1) suroboyo; urgency=low
+
+  * Replaces blankon-wallpapers-rote
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Feb 2013 23:56:29 +0700
+
 blankon-wallpapers (0.8) suroboyo; urgency=low
 
   * conflicts blankon-wallpapers-rote
