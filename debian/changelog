@@ -1,3 +1,11 @@
+blankon-wallpapers (0.8.3) suroboyo; urgency=low
+
+  * debian/control:
+    - Drop conflicts: blankon-wallpapers-rote
+    - Fix typo 
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Tue, 29 Oct 2013 17:47:26 +0700
+
 blankon-wallpapers (0.8.2) suroboyo; urgency=low
 
   * Updates wallpaper

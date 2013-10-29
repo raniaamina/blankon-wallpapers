@@ -23,4 +23,4 @@ Depends: ${misc:Depends}
 Conflicts: blankon-wallpapers-rote
 Replaces: blankon-wallpapers-rote
 Description: BlankOn 9 Wallpapers
- other default wallpapers for the current BlankOn 9 release.
+ The default BlankOn wallpapers for the current BlankOn 9 release.
