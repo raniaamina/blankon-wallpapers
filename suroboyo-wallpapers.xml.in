@@ -58,25 +58,25 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tugu pahlawan</_name>
+    <_name>Suramadu</_name>
     <filename>/usr/share/backgrounds/Suramadu.png</filename>
-    <options>stretch</options>
+    <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tugu pahlawan</_name>
+    <_name>Green</_name>
     <filename>/usr/share/backgrounds/Green.png</filename>
-    <options>stretch</options>
+    <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tugu pahlawan</_name>
+    <_name>Grey</_name>
     <filename>/usr/share/backgrounds/Grey.png</filename>
-    <options>stretch</options>
+    <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>

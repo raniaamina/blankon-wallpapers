@@ -1,8 +1,14 @@
+blankon-wallpapers (0.8.5) suroboyo; urgency=low
+
+  * fix error load extra wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 08 Nov 2013 23:03:41 +0700
+
 blankon-wallpapers (0.8.4) suroboyo; urgency=low
 
   * Added extra wallpaper
 
- -- mijortsa <mijortsa@toshi>  Fri, 08 Nov 2013 21:29:45 +0700
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 08 Nov 2013 21:29:45 +0700
 
 blankon-wallpapers (0.8.3) suroboyo; urgency=low
 
