@@ -1,3 +1,9 @@
+blankon-wallpapers (0.8.6) suroboyo-updates; urgency=low
+
+  * Add extra wallpaper
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 10:05:06 +0700
+
 blankon-wallpapers (0.8.5) suroboyo; urgency=low
 
   * fix error load extra wallpaper
