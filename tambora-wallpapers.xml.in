@@ -51,7 +51,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Tugu pahlawan</_name>
-    <filename>/usr/share/backgrounds/Tugu_pahlawan.png</filename>
+    <filename>/usr/share/backgrounds/x_wallpaper.png</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -59,7 +59,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Suramadu</_name>
-    <filename>/usr/share/backgrounds/Suramadu.png</filename>
+    <filename>/usr/share/backgrounds/x_wood.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -67,7 +67,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Green</_name>
-    <filename>/usr/share/backgrounds/Green.png</filename>
+    <filename>/usr/share/backgrounds/bunga_1.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -75,7 +75,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Grey</_name>
-    <filename>/usr/share/backgrounds/Grey.png</filename>
+    <filename>/usr/share/backgrounds/bunga_2.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
