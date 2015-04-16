@@ -50,32 +50,48 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tugu pahlawan</_name>
-    <filename>/usr/share/backgrounds/x_wallpaper.png</filename>
+    <_name>OIX</_name>
+    <filename>/usr/share/backgrounds/OIX.png</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Suramadu</_name>
-    <filename>/usr/share/backgrounds/x_wood.jpg</filename>
+    <_name>Rinjani</_name>
+    <filename>/usr/share/backgrounds/Rinjani.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bunga 1</_name>
-    <filename>/usr/share/backgrounds/bunga_1.jpg</filename>
+    <_name>Tambora 1</_name>
+    <filename>/usr/share/backgrounds/Tambora_1.png</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bunga 2</_name>
-    <filename>/usr/share/backgrounds/bunga_2.jpg</filename>
+    <_name>Tambora 2</_name>
+    <filename>/usr/share/backgrounds/Tambora_2.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Tambora 3</_name>
+    <filename>/usr/share/backgrounds/Tambora_3.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Bukit</_name>
+    <filename>/usr/share/backgrounds/Bukit.png</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -92,6 +108,38 @@
   <wallpaper>
     <_name>Pantai Lasiana 2</_name>
     <filename>/usr/share/backgrounds/Lasiana_2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Bunga 1</_name>
+    <filename>/usr/share/backgrounds/Bunga_1.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>bunga 2</_name>
+    <filename>/usr/share/backgrounds/Bunga_2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Burung</_name>
+    <filename>/usr/share/backgrounds/Burung.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Ladang</_name>
+    <filename>/usr/share/backgrounds/Ladang.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
