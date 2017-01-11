@@ -81,14 +81,14 @@
  		<scolor>#000000</scolor>
  		<shade_type>solid</shade_type>
 	</wallpaper>
-  <wallpaper>
-    <_name>Mosaic 1 Red</_name>
-    <filename>/usr/share/backgrounds/Mosaic_1_Red.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+	<wallpaper>
+	    <_name>Mosaic 1 Red</_name>
+	    <filename>/usr/share/backgrounds/Mosaic_1_Red.png</filename>
+	    <options>zoom</options>
+	    <pcolor>#000000</pcolor>
+	    <scolor>#000000</scolor>
+	    <shade_type>solid</shade_type>
+  	</wallpaper>
 	<wallpaper>
 		<_name>Noon</_name>
 		<filename>/usr/share/backgrounds/Noon.png</filename>
@@ -265,5 +265,36 @@
                 <scolor>#000000</scolor>
                 <shade_type>solid</shade_type>
         </wallpaper>
-
+        <wallpaper>
+                <_name>Boni 1</_name>
+                <filename>/usr/share/backgrounds/Boni_1.png</filename>
+                <options>zoom</options>
+                <pcolor>#000000</pcolor>
+                <scolor>#000000</scolor>
+                <shade_type>solid</shade_type>
+        </wallpaper>
+        <wallpaper>
+                <_name>Boni 2</_name>
+                <filename>/usr/share/backgrounds/Boni_2.png</filename>
+                <options>zoom</options>
+                <pcolor>#000000</pcolor>
+                <scolor>#000000</scolor>
+                <shade_type>solid</shade_type>
+        </wallpaper>
+        <wallpaper>
+                <_name>Boni 3</_name>
+                <filename>/usr/share/backgrounds/Boni_3.png</filename>
+                <options>zoom</options>
+                <pcolor>#000000</pcolor>
+                <scolor>#000000</scolor>
+                <shade_type>solid</shade_type>
+        </wallpaper>
+        <wallpaper>
+                <_name>Boni 3</_name>
+                <filename>/usr/share/backgrounds/Boni_4.png</filename>
+                <options>zoom</options>
+                <pcolor>#000000</pcolor>
+                <scolor>#000000</scolor>
+                <shade_type>solid</shade_type>
+        </wallpaper>
 </wallpapers>
