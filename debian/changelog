@@ -1,3 +1,9 @@
+blankon-wallpapers (0.10.18) uluwatu; urgency=medium
+
+  * update POTFILES
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 13:18:11 +0700
+
 blankon-wallpapers (0.10.17) uluwatu; urgency=medium
 
   * Change postins to uluwatu
