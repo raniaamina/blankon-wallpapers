@@ -4,7 +4,7 @@ blankon-wallpapers (0.10.19) uluwatu; urgency=medium
   * change control to uluwatu
 
  -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 21:27:08 +0700
-=======
+
   * change tambora to uluwatu in blankon-wallpapers.xml.in
 
  -- AnTo SamalonA <ansamsoftdev@gmail.com>  Tue, 15 Aug 2017 22:25:58 +0800
