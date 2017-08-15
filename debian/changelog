@@ -1,3 +1,29 @@
+blankon-wallpapers (0.10.18) uluwatu; urgency=medium
+
+  * update POTFILES
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 13:18:11 +0700
+
+blankon-wallpapers (0.10.17) uluwatu; urgency=medium
+
+  * Change postins to uluwatu
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 12:09:49 +0700
+
+blankon-wallpapers (0.10.16) uluwatu; urgency=medium
+
+  * fix contex/uluwatu.xml
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 11:54:03 +0700
+
+blankon-wallpapers (0.10.15) uluwatu; urgency=medium
+
+  * remove tambora wallpaper
+  * add uluwatu wallpaper
+  * add script for generate xml
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 11:37:30 +0700
+
 blankon-wallpapers (0.10.14) uluwatu; urgency=medium
 
   * Upload to uluwatu
