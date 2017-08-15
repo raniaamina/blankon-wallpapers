@@ -16,6 +16,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Midnight.png</from>
+    <to>/usr/share/backgrounds/Blur_1.png</to>
+  </transition>
+  <static>
+    <duration>10795.0</duration>
+    <file>/usr/share/backgrounds/Blur_1.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Blur_1.png</from>
     <to>/usr/share/backgrounds/uluwatu-inside-blankon-orange.png</to>
   </transition>
   <static>
@@ -70,15 +79,6 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/uluwatu-inside-blankon-dark-yellow.png</from>
-    <to>/usr/share/backgrounds/background_1.png</to>
-  </transition>
-  <static>
-    <duration>10795.0</duration>
-    <file>/usr/share/backgrounds/background_1.png</file>
-  </static>
-  <transition>
-    <duration>5.0</duration>
-    <from>/usr/share/backgrounds/background_1.png</from>
     <to>/usr/share/backgrounds/uluwatu-inside-blankon-dark-orange.png</to>
   </transition>
   <static>
@@ -88,15 +88,6 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/uluwatu-inside-blankon-dark-orange.png</from>
-    <to>/usr/share/backgrounds/background_1_1.png</to>
-  </transition>
-  <static>
-    <duration>10795.0</duration>
-    <file>/usr/share/backgrounds/background_1_1.png</file>
-  </static>
-  <transition>
-    <duration>5.0</duration>
-    <from>/usr/share/backgrounds/background_1_1.png</from>
     <to>/usr/share/backgrounds/uluwatu-inside-blankon-dark-blue.png</to>
   </transition>
   <static>
@@ -178,6 +169,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/simple-uluwatu.png</from>
+    <to>/usr/share/backgrounds/Blur.png</to>
+  </transition>
+  <static>
+    <duration>10795.0</duration>
+    <file>/usr/share/backgrounds/Blur.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Blur.png</from>
     <to>/usr/share/backgrounds/bunga-merah-jambu.png</to>
   </transition>
   <static>

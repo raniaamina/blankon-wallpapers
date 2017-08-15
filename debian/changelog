@@ -1,3 +1,9 @@
+blankon-wallpapers (0.10.16) uluwatu; urgency=medium
+
+  * fix contex/uluwatu.xml
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 11:54:03 +0700
+
 blankon-wallpapers (0.10.15) uluwatu; urgency=medium
 
   * remove tambora wallpaper
