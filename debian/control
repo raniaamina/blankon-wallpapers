@@ -20,7 +20,7 @@ Description: BlankOn Wallpapers
 Package: blankon-wallpapers-uluwatu
 Architecture: all
 Depends: ${misc:Depends}
-Conflicts: blankon-wallpapers-rote, blankon-wallpapers-suroboyo
-Replaces: blankon-wallpapers-rote, blankon-wallpapers-suroboyo
+Conflicts: blankon-wallpapers-rote, blankon-wallpapers-suroboyo, blankon-wallpapers-tambora
+Replaces: blankon-wallpapers-rote, blankon-wallpapers-suroboyo, blankon-wallpapers-tambora
 Description: BlankOn XI Wallpapers
  The default BlankOn wallpapers for the current BlankOn XI release.
